@@ -1,0 +1,166 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: Unofficial Guide to YNAB
+  version: 4.0
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Overview
+    output: web, pdf
+    folderitems:
+
+    - title: What is You Need a Budget (YNAB)?
+      url: /index.html
+      output: web, pdf
+      type: homepage
+
+    - title: About This Guide
+      url: /mydoc_about.html
+      output: web, pdf
+
+    - title: Getting Started
+      url: /mydoc_getting_started.html
+      output: web, pdf
+
+  - title: Setting Up a Budget
+    url: /mydoc_creating_budget.html
+    output: web, pdf
+    folderitems:
+
+    - title: Creating a Budget
+      url: /mydoc_creating_budget.html
+      output: web, pdf
+
+  - title: Managing Budget Categories
+    output: web, pdf
+    folderitems:
+
+    - title: About Budget Categories
+      url: /mydoc_about_categories.html
+      output: web, pdf
+
+    - title: Creating Categories
+      url: /mydoc_creating_categories.html
+      output: web, pdf
+
+    - title: Renaming Categories
+      url: /mydoc_renaming_categories.html
+      output: web, pdf
+
+    - title: Hiding Categories
+      url: /mydoc_hiding_categories.html
+      output: web, pdf
+
+    - title: Deleting Categories
+      url: /mydoc_deleting_categories.html
+      output: web, pdf
+
+  - title: Managing Accounts
+    output: web, pdf
+
+    folderitems:
+    - title: About Accounts
+      url: /mydoc_about_accounts.html
+      output: web, pdf
+
+    - title: Account Types
+      url: /mydoc_account_types.html
+      output: web, pdf
+
+    - title: Creating an Account
+      url: /mydoc_creating_account.html
+      output: web, pdf
+
+    - title: Closing an Account
+      url: /mydoc_closing_account.html
+      output: web, pdf
+
+    - title: Reopening an Account
+      url: /mydoc_reopening_account.html
+      output: web, pdf
+
+    - title: Deleting an Account
+      url: /mydoc_deleting_account.html
+      output: web, pdf
+
+  - title: Recording Income and Expenses
+    output: web, pdf
+
+    folderitems:
+    - title: About Transactions
+      url: /mydoc_about_transactions.html
+      output: web, pdf
+
+    - title: Adding Transactions
+      url: /mydoc_adding_transactions.html
+      output: web, pdf
+
+    - title: Clearing Transactions
+      url: /mydoc_clearing_transactions.html
+      output: web, pdf
+
+    - title: Tagging Transactions
+      url: /mydoc_tagging_transactions.html
+      output: web, pdf
+
+    - title: Setting Up Scheduled Transactions
+      url: /mydoc_scheduled_transactions.html
+      output: web, pdf
+
+    - title: Reassigning Transactions
+      url: /mydoc_reassigning_transactions.html
+      output: web, pdf
+
+    - title: Transferring Money to Another Account
+      url: /mydoc_transferring_money.html
+      output: web, pdf
+
+    - title: Deleting Transactions
+      url: /mydoc_deleting_transactions.html
+      output: web, pdf
+
+  - title: Managing Payees
+    output: web, pdf
+
+    folderitems:
+    - title: About Payees
+      url: /mydoc_about_payees.html
+      output: web, pdf
+
+    - title: Adding Payees
+      url: /mydoc_adding_payees.html
+      output: web, pdf
+
+    - title: Renaming Payees
+      url: /mydoc_renaming_payees.html
+      output: web, pdf
+
+  - title: Handling Expenses
+    output: web, pdf
+
+    folderitems:
+    - title: Budgeting Your Expenses
+      url: /mydoc_budgeting_expenses.html
+      output: web, pdf
+
+  - title: Maintaining Budget Balance
+    output: web, pdf
+
+    folderitems:
+    - title: Balancing Your Budget
+      url: /mydoc_budget_balance.html
+      output: web, pdf

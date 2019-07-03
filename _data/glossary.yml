@@ -1,0 +1,19 @@
+account: "It is a framework for recording inflow and outflow transactions that track income, expenses, and savings."
+
+budget_accounts: "These accounts finance your budget. They are the sources that cover your expenses."
+
+budget: "It s a file that contains detailed information on everything you earn and spend. It is a framework for tracking the money flow with transactions assigned to certain accounts and categories."
+
+budget_category: "Defines the type and nature of your expenses. With budget categories, you establish on what you spend the money."
+
+inflow: "Lorem ipsum."
+
+off-budget_accounts: "These accounts do not affect your budget and, as such, do not have budget categories. They track the money that you pull out of your budget and set aside for specific purposes."
+
+outflow: "Lorem ipsum."
+
+payee: "Reflects the type of your income and expenses. Payees can be companies (where your paychecks come from), businesses (supermarkets or online stores), institutions (banks), services (food delivery or cleaning), or individuals (cash gifts)."
+
+scheduled_transaction: "Lorem ipsum."
+
+transaction: "Lorem ipsum."
