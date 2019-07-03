@@ -20,6 +20,7 @@ You need to budget money into categories once a month. Consider doing it consist
 Because YNAB is designed as a monthly budget, there is a section for each of the twelve months in the budget spreadsheet. YNAB automatically highlights current and future months, while previous months appear dimmed.
 
 Select the month you need from the navigation string at the top of the budget spreadsheet. Or use the navigation buttons next to the navigation string.
+
 {% include inline_image.html file="NavButtons.png" alt="Navigation string" %}
 
 The months that fit on your screen are highlighted in blue.
