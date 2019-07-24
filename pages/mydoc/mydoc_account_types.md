@@ -11,7 +11,7 @@ folder: mydoc
 
 ## Account Types
 
-YNAB offers a list of preset **account types**. In this guide, they are colour labeled for explanation purposes: the income accounts usually have a <span class="label label-success">positive</span> balance, while the debt accounts have a <span class="label label-danger">negative</span> balance:
+YNAB offers a list of preset **account types**. In this guide, they are colour labeled for explanation purposes: the income accounts usually have a <span class="label label-success">positive</span> balance, whereas the debt accounts have a <span class="label label-danger">negative</span> balance:
 
 * <span class="label label-success">positive</span>  **Checking Account** It is one of the main accounts you spend from, for example, your payroll card.
 *  <span class="label label-success">positive</span>  **Savings Account**. This account keeps your savings for short-term future purchases or services, for example travel or emergency funds.

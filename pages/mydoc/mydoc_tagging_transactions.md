@@ -18,5 +18,5 @@ Tags also allow you to track a certain expense without breaking up a broader cat
 
 2.  In the transactions list, click the dimmed flag on the left side of the transaction you want to tag. <br/>This opens a selection of color flags.
 
-3.  Select a flag of the desired color.
+3.  Select a flag of the appropriate color.
     {% include image.html file="Tagging.png" alt="Tagging a transaction" %}
