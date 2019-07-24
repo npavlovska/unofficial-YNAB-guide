@@ -21,6 +21,6 @@ To get your budget up and running, follow these planning steps:
 4.  [Record monthly income with inflow transactions](mydoc_adding_transactions).
 5.  [Budget monthly expenses](mydoc_budgeting_expenses).
 
-Once you finish these planning steps, start recording your day-to-day payments as they occur.
+After you finish these planning steps, start recording your day-to-day payments as they occur.
 
 {% include links.html %}

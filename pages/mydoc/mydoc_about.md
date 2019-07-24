@@ -11,7 +11,7 @@ folder: mydoc
 
 This guide covers basic features of YNAB 4. Please note that version 4 is no longer on the market. To learn more about the latest version, visit the [official YNAB website](https://www.youneedabudget.com/).
 
-The guide will walk you through a process of running a desktop version of a Personal/Family budget. There is also a budget option for Small Business owners. See the [official product page](https://www.youneedabudget.com/tag/small-business-owners/) for details.
+The guide will walk you through a process of running a desktop version of a **Personal/Family** budget. YNAB also offers a budget option for **Small Business** owners. See the [official product page](https://www.youneedabudget.com/tag/small-business-owners/) for details.
 
 The latest version of YNAB is available as a web app, and it supports multiple devices, such as tablets, mobile phones, Apple watch, and Alexa. Find out more at the [official website](https://www.youneedabudget.com/our-app-lineup/).
 

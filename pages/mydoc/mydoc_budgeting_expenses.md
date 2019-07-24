@@ -9,7 +9,7 @@ permalink: mydoc_budgeting_expenses.html
 folder: mydoc
 ---
 
-Once you set up [budget categories](mydoc_about_categories), [create accounts](mydoc_creating_account), and [add income](mydoc_adding_transactions), you are ready to budget expenses. Determine how much money you want to allocate for each category. Decide what categories require bigger budget than others. Calculate repetitive expenses, such as utilities and subscriptions. Determine your savings goals and emergency funds.
+After you set up [budget categories](mydoc_about_categories), [create accounts](mydoc_creating_account), and [add income](mydoc_adding_transactions), you are ready to budget expenses. Determine how much money you want to allocate for each category. Decide what categories require bigger budget than others. Calculate repetitive expenses, such as utilities and subscriptions. Determine your savings goals and emergency funds.
 
 {% include important.html content="Make sure you set expenses based on your income after taxes." %}
 
@@ -17,7 +17,7 @@ You need to budget money into categories once a month. Consider doing it consist
 
 ## To select a budget month:
 
-Because YNAB is designed as a monthly budget, there is a section for each of the twelve months in the budget spreadsheet. YNAB automatically highlights current and future months, while previous months appear dimmed.
+Because YNAB is designed as a monthly budget, there is a section for each of the twelve months in the budget spreadsheet. YNAB automatically highlights current and future months, whereas previous months appear dimmed.
 
 Select the month you need from the navigation string at the top of the budget spreadsheet. Or use the navigation buttons next to the navigation string.
 

@@ -9,7 +9,7 @@ permalink: mydoc_deleting_categories.html
 folder: mydoc
 ---
 
-When deleting a category, keep in mind that all its transactions will become uncategorized and will no longer affect your budget. If you want to make sure deleting a category does not affect your budget history, first [reassign its transactions](mydoc_reassigning_transactions) to other categories.
+When deleting a category, remember that all its transactions will become uncategorized and will no longer affect your budget. If you want to ensure that deleting a category does not affect your budget history, first [reassign its transactions](mydoc_reassigning_transactions) to other categories.
 
 If you do not want to reassign transactions, consider [hiding the category](mydoc_hiding_categories) instead of deleting it.
 
@@ -17,7 +17,7 @@ If you do not want to reassign transactions, consider [hiding the category](mydo
 
 ## To delete a category:
 
-1.  Click the category you wish to delete. <br/>This opens the Edit category dialog box (or Edit master category if you are deleting a master category).<br/>
+1.  Click the category you want to delete. <br/>This opens the Edit category dialog box (or Edit master category if you are deleting a master category).<br/>
     {% include image.html file="EditCategory.png" alt="Deleting a category" caption="Deleting a category" %}
     {% include image.html file="EditMasterCategory.png" alt="Deleting a master category" caption="Deleting a master category" %}
 

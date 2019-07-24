@@ -9,7 +9,7 @@ permalink: mydoc_about_transactions.html
 folder: mydoc
 ---
 
-Once you [set up budget categories](mydoc_about_categories) and [create accounts](mydoc_creating_account) with your starting balance, begin recording income and expenses with day-to-day inflow and outflow transactions.
+After you [set up budget categories](mydoc_about_categories) and [create accounts](mydoc_creating_account) with your starting balance, begin recording income and expenses with day-to-day inflow and outflow transactions.
 
 This section covers the following topics:
 

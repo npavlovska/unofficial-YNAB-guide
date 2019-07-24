@@ -20,7 +20,7 @@ folder: mydoc
 
 ## To add a new category:
 
-1.  Point to the master category under which you wish to add a new category.
+1.  Point to the master category under which you want to add a new category.
     <br/>A **plus (+)** button appears next to the master category.<br/>
 2.  Click the **plus (+)** button.
     <br/>This opens the **Add new category** dialog box.<br/>

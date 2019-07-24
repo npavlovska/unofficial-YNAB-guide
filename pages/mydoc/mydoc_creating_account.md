@@ -19,11 +19,11 @@ folder: mydoc
     * **Current Balance**. Specify current positive or negative balance depending on the account type. You can always change it later if needed.
     * **Date of Current Balance**. Set the date, which is usually the current date.
     * **Type**. Select the [account type](mydoc_account_types) from the drop-down list.
-    * **Budget Account** or **Off-Budget**. Select the desired [account category](mydoc_account_types.html#account-categories).
+    * **Budget Account** or **Off-Budget**. Select the appropriate [account category](mydoc_account_types.html#account-categories).
 
 3.  Click **Create Account**. <br/>You can now see the account and its balance in the blue navigation pane on the left.
 
-After you create an account, a new transaction with the current balance is automatically recorded in a list of account transactions. To access the list, select the account In the blue navigation pane on the left.
+After you create an account, a new transaction with the current balance is automatically recorded in a list of account transactions. To view the list, select the account In the blue navigation pane on the left.
 
 The new transaction is assigned to a preset **Starting Balance** payee and a preset category that depends on the type and category of the account:
 

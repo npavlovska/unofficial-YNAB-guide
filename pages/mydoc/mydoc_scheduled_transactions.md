@@ -17,7 +17,7 @@ You need to review all scheduled transactions on the date they are due and eithe
 
 ## To add a scheduled transaction:
 
-1.  In the blue navigation pane on the left, select an account under which you wish to make a scheduled transaction. <br/>This opens a list of account transactions.
+1.  In the blue navigation pane on the left, select an account under which you want to make a scheduled transaction. <br/>This opens a list of account transactions.
 
 2.  At the bottom of the transactions list, click the **Scheduled Transactions** button. <br/>{% include inline_image.html
 file="ScheduledButton.png" alt="Scheduled Transaction button" %} <br/>This expands a list of scheduled transactions.
@@ -54,8 +54,8 @@ On a set date, the scheduled transaction is transferred to a list of account tra
 {% include image.html file="Scheduled_OnDate.png" alt="Approving or rejecting a transaction" %}
 
 <br/>**Approve or reject** a scheduled transaction in one of the following ways:
-*  Double-click the transaction and select the desired option.
-*  Click the blue **info (i)** button and select the desired option in the pop-up box.
+*  Double-click the transaction and select the appropriate option.
+*  Click the blue **info (i)** button and select the appropriate option in the pop-up box.
     {% include image.html file="Scheduled_OnDate_Approve.png" alt="Approving or rejecting a transaction" %}
 
 {% include links.html %}

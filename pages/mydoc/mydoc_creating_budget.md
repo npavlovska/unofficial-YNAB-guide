@@ -15,14 +15,14 @@ Creating a budget file is the first step in setting up your personal monthly bud
 
 ## To create a budget:
 
-1.  Launch YNAB client.
+1.  Start YNAB client.
 2.  In the top menu, select **File** > **Create a New Budget...**
     <br/>This opens the Budget Setup window.<br/>
     {% include image.html file="CreateBudget.png"  alt="Create budget" %}
 3.  In the **Budget Name** field, type in the name of your budget.
-4.  Under the prompt **Cloud Sync this budget?** select the desired option:
+4.  Under the prompt **Cloud Sync this budget?** select the appropriate option:
 *  If you plan to use the budget on multiple devices, select **Yes, Cloud Sync this budget**.
-*  If you plan to access the budget only from your PC, select **No, make it local**.
+*  If you plan to use the budget only on your PC, select **No, make it local**.
 5.  Under **Starting Categories** select **Personal/Family**. This budget option contains a set of budget categories that cover the most common personal living expenses.
     <br/>There is also available a [Small Business](https://www.youneedabudget.com/tag/small-business-owners/) option with a different set of categories, which this guide does not cover.<br/>
 6.  Under **Currency & Date Formats** select your preferred currency, currency format, and date format from the drop-down lists.

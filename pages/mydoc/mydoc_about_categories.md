@@ -8,7 +8,7 @@ permalink: mydoc_about_categories.html
 folder: mydoc
 ---
 
-Once you [create a budget](mydoc_creating_budget.html), you can set up **budget categories** that define the type and nature of your expenses. With budget categories, you establish on what you spend the money.
+After you [create a budget](mydoc_creating_budget.html), you can set up **budget categories** that define the type and nature of your expenses. With budget categories, you establish on what you spend the money.
 
 YNAB offers a list of preset categories based on the most common living expenses you might encounter. Change or delete them if they do not fit your budget, or add new ones. For example, if you travel often, you might have a category called **Travel**.
 
@@ -21,6 +21,6 @@ This section covers the following topics:
 *  [Hiding categories](mydoc_hiding_categories.html).
 *  [Deleting categories](mydoc_deleting_categories.html).
 
-To access budget categories, go to the blue navigation pane on the left and select **Budget**. This opens a budget spreadsheet with preset categories.
+To view budget categories, go to the blue navigation pane on the left and select **Budget**. This opens a budget spreadsheet with preset categories.
 
 {% include links.html %}

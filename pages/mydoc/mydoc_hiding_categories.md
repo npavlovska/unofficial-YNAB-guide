@@ -13,7 +13,7 @@ You can hide categories and display them again when needed. It is especially use
 
 ## To hide a category:
 
-1.  Click the category you wish to hide.
+1.  Click the category you want to hide.
 <br/>This opens the **Edit category** dialog box (or **Edit master category** if you are hiding a master category).<br/>
     {% include image.html file="EditCategory.png" alt="Editing a category" caption="Editing a category" %}
     {% include image.html file="EditMasterCategory.png" alt="Editing a master category" caption="Editing a master category" %}
@@ -31,7 +31,7 @@ You can hide categories and display them again when needed. It is especially use
 2.  Click **Unhide**.
     {% include image.html file="Unhide.png" alt="Showing a hidden category" %}
 
-3.  Select the category you wish to unhide. <br/> Selecting **Unhide All** displays all hidden categories.<br/>
+3.  Select the category you want to unhide. <br/> Selecting **Unhide All** displays all hidden categories.<br/>
     {% include important.html content="Unhiding one of the categories in a hidden master category also unhides its master category." %}
 
 {% include links.html %}
