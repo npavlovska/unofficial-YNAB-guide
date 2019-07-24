@@ -44,7 +44,7 @@ file="ScheduledButton.png" alt="Scheduled Transaction button" %} <br/>This expan
 
         {% include note.html content="You can leave the **Inflow/Outflow** field empty and specify the amount when approving the transaction on the date it occurs." %}
 
-        {% include tip.html content="Optionally, you can [colour tag a transaction](mydoc_tagging_transactions) by clicking the dimmed flag on the left side and selecting one of the offered coloured flags." %}
+        {% include tip.html content="Optionally, you can [color tag a transaction](mydoc_tagging_transactions) by clicking the dimmed flag on the left side and selecting one of the offered colored flags." %}
 
 6.  Click **Save**. <br/>If you want to add one more scheduled transaction, click **Save and add another**.
 

@@ -32,7 +32,7 @@ The key to maintaining an accurate financial balance is to record income and exp
     *  For expense, type in the amount in the **Outflow** field.
         {% include image.html file="AddTransaction.png" alt="Adding a transaction" %}
 
-        {% include tip.html content="Optionally, you can [colour tag a transaction](mydoc_tagging_transactions) by clicking the dimmed flag on the left side and selecting one of the offered coloured flags." %}
+        {% include tip.html content="Optionally, you can [color tag a transaction](mydoc_tagging_transactions) by clicking the dimmed flag on the left side and selecting one of the offered colored flags." %}
 
 5.  Click **Save**. <br/>If you want to add one more transaction, click **Save and add another**.
 

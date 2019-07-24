@@ -33,7 +33,7 @@ Transferring money between two [budget accounts](mydoc_account_types.html#accoun
     *  **Inflow**. Leave the **Inflow** field empty.
         {% include image.html file="TransferTransaction.png" alt="Transferring money" %}
 
-        {% include tip.html content="Optionally, you can [colour tag a transaction](mydoc_tagging_transactions) by clicking the dimmed flag on the left side and selecting one of the offered coloured flags." %}
+        {% include tip.html content="Optionally, you can [color tag a transaction](mydoc_tagging_transactions) by clicking the dimmed flag on the left side and selecting one of the offered colored flags." %}
 
 4. Click **Save**. <br/>For all types of transfers, except **off-budget to budget** transfers, this completes the process of transferring money to another account. For **off-budget to budget** transfers, proceed with [completing the transfer](#to-complete-a-transfer-from-an-off-budget-account-to-a-budget-one).
 
