@@ -26,7 +26,7 @@ You can hide categories and display them again when needed. It is especially use
 
 ## To show hidden categories:
 
-1.  Point to **Hidden Categories** at the bottom of the categories list. <br/>The Unhide button appears next to **Hidden Categories**. If there are no hidden categories, the button is not displayed.<br/>
+1.  Point to **Hidden Categories** at the bottom of the categories list. <br/>The **Unhide** button appears next to **Hidden Categories**. If there are no hidden categories, the button is not displayed.<br/>
 
 2.  Click **Unhide**.
     {% include image.html file="Unhide.png" alt="Showing a hidden category" %}

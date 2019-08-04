@@ -17,7 +17,7 @@ If you do not want to reassign transactions, consider [hiding the category](mydo
 
 ## To delete a category:
 
-1.  Click the category you want to delete. <br/>This opens the Edit category dialog box (or Edit master category if you are deleting a master category).<br/>
+1.  Click the category you want to delete. <br/>This opens the **Edit category** dialog box (or **Edit master category** if you are deleting a master category).<br/>
     {% include image.html file="EditCategory.png" alt="Deleting a category" caption="Deleting a category" %}
     {% include image.html file="EditMasterCategory.png" alt="Deleting a master category" caption="Deleting a master category" %}
 

@@ -22,7 +22,7 @@ You need to review all scheduled transactions on the date they are due and eithe
 2.  At the bottom of the transactions list, click the **Scheduled Transactions** button. <br/>{% include inline_image.html
 file="ScheduledButton.png" alt="Scheduled Transaction button" %} <br/>This expands a list of scheduled transactions.
 
-3.  In the scheduled transactions list, click + Schedule a new transaction. <br/>This creates an empty scheduled transaction.
+3.  In the scheduled transactions list, click **+ Schedule a new transaction**. <br/>This creates an empty scheduled transaction.
 
 4.  Fill in the details:
     *  **Date**. Set the date on which you want the first scheduled transaction to occur.
