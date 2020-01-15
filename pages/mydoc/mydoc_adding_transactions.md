@@ -1,7 +1,7 @@
 ---
 title: Adding Transactions
 keywords: unofficial YNAB guide, recording income and expenses
-last_updated: July 2, 2019
+last_updated: January 15, 2020
 toc: false
 topnav: topnav
 sidebar: mydoc_sidebar
@@ -25,7 +25,7 @@ The key to maintaining an accurate financial balance is to record income and exp
         {% include note.html content="When you type in a new payee, it is instantly added to a list of memorized payees." %}
 
     *  **Category**. Select a [budget category](mydoc_creating_categories) from the drop-down list.
-    *  **Memo**. Add a personal memo (optional).
+    *  **Memo**. Add a personal note (optional).
 
 4.  Specify the transaction amount:
     *  For income, type in the amount in the **Inflow** field.
@@ -36,6 +36,6 @@ The key to maintaining an accurate financial balance is to record income and exp
 
 5.  Click **Save**. <br/>If you want to add one more transaction, click **Save and add another**.
 
-    {% include tip.html content="In the budget spreadsheet, the **Outflows** column of the budgeted month displays the amount you have spent in each category. To [check your budget balance](mydoc_budget_balance#to-check-your-budget-balance), view the budget spreadsheet by selecting **Budget** in the blue navigation pane." %}
+    {% include tip.html content="In the budget spreadsheet, the **Outflows** column of the budgeted month displays the amount you have spent in each category. To [check your budget balance](mydoc_budget_balance#to-check-your-budget-balance), view the budget spreadsheet by selecting **Budget** in the blue navigation pane on the left." %}
 
 {% include links.html %}

@@ -9,8 +9,8 @@ permalink: mydoc_reassigning_transactions.html
 folder: mydoc
 ---
 
-If you happen to assign a transaction to a wrong category, you can always reassign it.
-When deleting a budget category, consider reassigning all of its transactions to other categories. Otherwise they will become uncategorized and will no longer affect your budget.
+If you happen to assign a transaction to the wrong category, you can always reassign it.
+When deleting a budget category, consider reassigning all of its transactions to other categories. Otherwise, they will become uncategorized and will no longer affect your budget.
 
 ## 1. To reassign a transaction:
 

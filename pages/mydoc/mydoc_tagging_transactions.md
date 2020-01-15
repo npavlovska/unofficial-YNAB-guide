@@ -10,7 +10,7 @@ folder: mydoc
 
 To have additional sorting options, you can label transactions with color tags. it is especially useful for grouping transactions assigned to different categories. For example, to see how much money you spend on both **Phone** and **Internet**, mark transactions in these two categories with the same color tag.
 
-Tags also allow you to track a certain expense without breaking up a broader category into more specific ones. For example, you can find out how much you spend on coffee takeouts, which are a part of your **Restaurants & Entertainment** category, by marking each coffee takeout transaction with a color tag.
+Tags also allow you to track a particular expense without breaking up a broader category into several smaller ones. For example, your coffee takeouts are a part of the **Restaurants & Entertainment** category. If you want to find out how much you spend on them, mark each coffee takeout transaction with a color tag.
 
 ## To tag a transaction:
 

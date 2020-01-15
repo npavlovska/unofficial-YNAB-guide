@@ -1,7 +1,7 @@
 ---
 title: Deleting Categories
 keywords: unofficial YNAB guide, deleting categories
-last_updated: July 2, 2019
+last_updated: January 15, 2020
 toc: false
 topnav: topnav
 sidebar: mydoc_sidebar
@@ -27,6 +27,6 @@ If you do not want to reassign transactions, consider [hiding the category](mydo
         {% include warning.html content="Deleting a master category also removes all of its categories." %}
 
 3.  Click **Done**.
-4.  Confirm your action in the next dialog box.
+4.  In the dialog box that opens, confirm your action.
 
 {% include links.html %}

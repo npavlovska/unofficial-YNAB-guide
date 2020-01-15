@@ -18,7 +18,7 @@ Keep track of your actual expenses per category. If you overspend, identify the 
 1.  In the blue navigation pane on the left, select **Budget**. <br/>This opens a budget spreadsheet.
 2.  In the budget spreadsheet, check the header of the budgeted month:
     *  If it displays the **Available to Budget** amount with a zero or positive balance, the total expenses are within the limits of the total income. You budgeted well.
-    *  If it displays the **Overbudgeted** amount with a negative balance, the total expenses exceed the total income. You need to eliminate overbudgeting by [adjusting the amounts budgeted into categories](mydoc_budgeting_expenses#to-budget-money-into-a-category).
+    *  If it displays the **Overbudgeted** amount with a negative balance, the total expenses exceed the total income. Eliminate overbudgeting by [adjusting the amounts budgeted into categories](mydoc_budgeting_expenses#to-budget-money-into-a-category).
         {% include image.html file="HeaderOverbudgeted.png" alt="Header of the budgeted month" %}
 
 ## To identify and eliminate overspending:
@@ -32,6 +32,6 @@ Keep track of your actual expenses per category. If you overspend, identify the 
     1.  [Increase budgeted expenses](mydoc_budgeting_expenses#to-budget-money-into-a-category) in these categories to bring their negative balance to zero.
     2.  [Reduce budgeted expenses](mydoc_budgeting_expenses#to-budget-money-into-a-category) in other categories until your budget balance is zero or positive. This offsets the increase in categories with overspending.
 
-    {% include note.html content="If you do not eliminate overspending, it is automatically transferred to next month." %}
+    {% include note.html content="If you do not eliminate overspending, YNAB automatically transfers it to next month." %}
 
 {% include links.html %}

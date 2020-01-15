@@ -11,11 +11,11 @@ folder: mydoc
 
 Considering how easy it is to [add payees](mydoc_adding_payees), you might end up with different versions of the same payee that, for example, have different spelling. To keep payees consistent, rename the duplicates until all of them match. As soon as you finish renaming, the duplicates will automatically disappear from the list of existing payees.
 
-{% include note.html content="You cannot rename the payee of a transfer transaction because its name specifies the account the money came from." %}
+{% include note.html content="You cannot rename the payee in a transfer transaction because its name specifies the source account the money came from." %}
 
 ## To rename a payee:
 
-1.  In the top menu select **View** > **Go to Payee Settings**. <br/>This opens a window with a list of payees.
+1.  In the top menu, select **View** > **Go to Payee Settings**. <br/>This opens a window with a list of payees.
 
 2.  From the list on the left, select a payee you want to rename.
 

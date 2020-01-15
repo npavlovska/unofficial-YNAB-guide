@@ -1,7 +1,7 @@
 ---
 title: Creating an Account
 keywords: unofficial YNAB guide, accounts
-last_updated: July 2, 2019
+last_updated: January 15, 2020
 toc: false
 topnav: topnav
 sidebar: mydoc_sidebar
@@ -23,12 +23,12 @@ folder: mydoc
 
 3.  Click **Create Account**. <br/>You can now see the account and its balance in the blue navigation pane on the left.
 
-After you create an account, a new transaction with the current balance is automatically recorded in a list of account transactions. To view the list, select the account In the blue navigation pane on the left.
+After you create an account, a new transaction with the current balance automatically appears in a list of account transactions. To view the list, select the account In the blue navigation pane on the left.
 
-The new transaction is assigned to a preset **Starting Balance** payee and a preset category that depends on the type and category of the account:
+The new transaction is assigned to a preset **Starting Balance** payee and a preset category that depends on the account:
 
-*  **Income for current month** for a budget account with a positive balance.
-*  **Pre-YNAB debt** for a budget account with a negative balance.
-*  No category for an off-budget account. Transactions in off-budget accounts do not have budget categories.
+*  **Income for current month**, for a budget account with a positive balance.
+*  **Pre-YNAB debt**, for a budget account with a negative balance.
+*  No category, for an off-budget account. Transactions in off-budget accounts do not have budget categories.
 
 {% include links.html %}
