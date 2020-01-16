@@ -43,7 +43,7 @@ Transferring money between two [budget accounts](mydoc_account_types.html#accoun
 
 2.  In the transactions list, follow the notifications and assign a [budget category](mydoc_about_categories) to the transfer transaction in one of the following ways:
     *  Click the **Category** field and select a category from the drop-down list.
-    *  Click the orange **info (i)** button and select a category in the pop-up box.
+    *  Click the orange **Info** button {% include inline_image.html file="Information_i_orange_button.png" alt="Info button" %} and select a category in the pop-up box that appears.
         {% include image.html file="TransferNotification.png" alt="Finishing the transfer transaction" %}
 
 3.  Click **Done**.

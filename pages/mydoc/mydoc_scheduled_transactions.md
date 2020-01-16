@@ -1,7 +1,7 @@
 ---
 title: Setting Up Scheduled Transactions
 keywords: unofficial YNAB guide, recording income and expenses
-last_updated: July 3, 2019
+last_updated: January 16, 2020
 toc: false
 topnav: topnav
 sidebar: mydoc_sidebar
@@ -55,7 +55,7 @@ On a set date, the scheduled transaction is transferred to a list of account tra
 
 <br/>**Approve or reject** a scheduled transaction in one of the following ways:
 *  Double-click the transaction and select the appropriate option.
-*  Click the blue **info (i)** button and select the appropriate option in the pop-up box.
+*  Click the blue **Info** button {% include inline_image.html file="Information_i_button.png" alt="Info button" %} and select the appropriate option in the pop-up box that appears.
     {% include image.html file="Scheduled_OnDate_Approve.png" alt="Approving or rejecting a transaction" %}
 
 {% include links.html %}
