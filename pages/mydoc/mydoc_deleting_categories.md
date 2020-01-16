@@ -1,7 +1,7 @@
 ---
 title: Deleting Categories
 keywords: unofficial YNAB guide, deleting categories
-last_updated: January 15, 2020
+last_updated: January 16, 2020
 toc: false
 topnav: topnav
 sidebar: mydoc_sidebar
@@ -9,11 +9,11 @@ permalink: mydoc_deleting_categories.html
 folder: mydoc
 ---
 
-When deleting a category, remember that all its transactions will become uncategorized and will no longer affect your budget. If you want to ensure that deleting a category does not affect your budget history, first [reassign its transactions](mydoc_reassigning_transactions) to other categories.
+When deleting a category, remember that all of its transactions will become uncategorized and will no longer affect your budget. If you want to ensure that deleting a category does not affect your budget history, first [reassign its transactions](mydoc_reassigning_transactions) to other categories.
 
 If you do not want to reassign transactions, consider [hiding the category](mydoc_hiding_categories) instead of deleting it.
 
-{% include warning.html content="Deleting a category cannot be undone." %}
+{% include warning.html content="Deleting a category is irreversible, and you cannot undo it." %}
 
 ## To delete a category:
 
