@@ -22,7 +22,7 @@ The key to maintaining an accurate financial balance is to record income and exp
     *  **Date**. Specify the date when the transaction occurred.
     *  **Payee**. Type in a new [payee](mydoc_about_payees) or select an existing one from the drop-down list.
 
-        {% include note.html content="When you type in a new payee, it is instantly added to a list of memorized payees." %}
+        {% include note.html content="When you enter a new payee, it instantly appears in the list of memorized payees." %}
 
     *  **Category**. Select a [budget category](mydoc_creating_categories) from the drop-down list.
     *  **Memo**. Add a personal note (optional).
