@@ -14,7 +14,7 @@ Tags also allow you to track a particular expense without breaking up a broader 
 
 ## To tag a transaction:
 
-1.  In the blue navigation pane on the left, select an account with the transaction you want to tag. <br/>This opens a list of account transactions.
+1.  In the navigation pane on the left, select an account with the transaction you want to tag. <br/>This opens a list of account transactions.
 
 2.  In the transactions list, click the dimmed flag on the left side of the transaction you want to tag. <br/>This opens a selection of color flags.
 

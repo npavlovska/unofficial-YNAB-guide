@@ -15,5 +15,5 @@ folder: mydoc
     {% include image.html file="EditCategory.png" alt="Editing a category" caption="Editing a category" %}
     {% include image.html file="EditMasterCategory.png" alt="Editing a master category" caption="Editing a master category" %}
 
-2.  In the dialog box, type in the new name.
+2.  In the dialog box, type the new name.
 3.  Click **Done**.

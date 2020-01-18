@@ -17,9 +17,9 @@ You need to budget money into categories once a month. Consider doing it consist
 
 ## To select a budget month:
 
-The budget spreadsheet contains a section for each of the twelve months. YNAB automatically highlights current and future months, while previous months appear dimmed.
+A budget spreadsheet contains a section for each of the twelve months. YNAB highlights current and future months, while previous months appear dimmed.
 
-Select the appropriate month from the navigation string at the top of the budget spreadsheet. Or use the navigation buttons next to the navigation string.
+Select the appropriate month from the navigation string at the top of the budget spreadsheet. Or use the left and right navigation buttons next to the navigation string.
 
 {% include inline_image.html file="NavButtons.png" alt="Navigation string" %}
 
@@ -27,13 +27,13 @@ The months that fit on your screen are highlighted in blue.
 
 ## To budget money into a category:
 
-1.  In the blue navigation pane on the left, select **Budget**. <br/>This opens a budget spreadsheet.
+1.  In the navigation pane on the left, select **Budget**. <br/>This opens a budget spreadsheet.
 
 2. In the budget spreadsheet, point to the budget category you want to fill. <br/>This highlights its entire row in grey.
 
-3.  Select a row cell that corresponds to the **Budgeted** column of the budgeted month and enter the amount.
+3.  Select a row cell that corresponds to the **Budgeted** column of the budgeted month and type the amount.
     {% include image.html file="ExpenseAmount.png" alt="Budgeting money into a category" %}
 
-    {% include note.html content="You do not need to set the amounts of **master categories**. They are calculated automatically as a sum of their categories." %}
+    {% include note.html content="You do not need to set the amounts for **master categories**. They are calculated automatically as a sum of their categories." %}
 
 {% include links.html %}

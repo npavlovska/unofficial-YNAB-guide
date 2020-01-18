@@ -15,7 +15,7 @@ Transferring money between two [budget accounts](mydoc_account_types.html#accoun
 
 ## To transfer money to another account:
 
-1.  In the blue navigation pane on the left, select an account from which you want to make a transfer. <br/>This opens a list of account transactions.
+1.  In the navigation pane on the left, select an account from which you want to make a transfer. <br/>This opens a list of account transactions.
 
 2.  In the transactions list, click **Make a transfer**. <br/>This creates an empty transfer transaction.
     {% include image.html file="MakeTransfer.png" alt="Transfer transaction" %}
@@ -39,11 +39,11 @@ Transferring money between two [budget accounts](mydoc_account_types.html#accoun
 
 ## To complete a transfer from an off-budget account to a budget one:
 
-1.  In the blue navigation pane on the left, select a budget account to which you just made a transfer. <br/>This opens a list of account transactions.
+1.  In the navigation pane on the left, select a budget account to which you just made a transfer. <br/>This opens a list of account transactions.
 
 2.  In the transactions list, follow the notifications and assign a [budget category](mydoc_about_categories) to the transfer transaction in one of the following ways:
     *  Click the **Category** field and select a category from the drop-down list.
-    *  Click the orange **Info** button {% include inline_image.html file="Information_i_orange_button.png" alt="Info button" %} and select a category in the pop-up box that appears.
+    *  Click the **Info** button {% include inline_image.html file="Information_i_orange_button.png" alt="Info button" %} and select a category in the pop-up box that appears.
         {% include image.html file="TransferNotification.png" alt="Finishing the transfer transaction" %}
 
 3.  Click **Done**.

@@ -13,9 +13,9 @@ If you no longer need an account, you can close it. The action removes it from t
 
 ## To close an account:
 
-1.  In the blue navigation pane on the left, right-click the account you want to close. <br/>This opens the **Edit Account** window.
+1.  In the navigation pane on the left, right-click the account you want to close. <br/>This opens the **Edit Account** window.
     {% include image.html file="EditAccount.png" alt="Closing an account" %}
 
-2.  Click **Close Account** in the lower-left corner. <br/>You can now see the account in the **Closed Accounts** section in the blue navigation pane on the left.
+2.  Click **Close Account** in the lower-left corner. <br/>You can now see the account in the **Closed Accounts** section in the navigation pane on the left.
 
  {% include links.html %}

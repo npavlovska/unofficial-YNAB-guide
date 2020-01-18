@@ -21,6 +21,6 @@ This section covers the following topics:
 *  [Hiding categories](mydoc_hiding_categories.html).
 *  [Deleting categories](mydoc_deleting_categories.html).
 
-To view budget categories, go to the blue navigation pane on the left and select **Budget**. This opens a budget spreadsheet with preset categories.
+To view budget categories, go to the navigation pane on the left and select **Budget**. This opens a budget spreadsheet with preset categories.
 
 {% include links.html %}

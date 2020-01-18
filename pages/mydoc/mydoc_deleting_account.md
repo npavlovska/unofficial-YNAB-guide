@@ -15,7 +15,7 @@ If you want to remove an account permanently, you have to [close it](mydoc_closi
 
 ## To delete an account:
 
-1. In the Closed Accounts section in the blue navigation pane on the left, right-click the account you want to delete. <br/>This opens the **Edit Account** window.
+1. In the Closed Accounts section in the navigation pane on the left, right-click the account you want to delete. <br/>This opens the **Edit Account** window.
     {% include image.html file="DeleteAccount.png" alt="Deleting an account" %}
 
 2.  Click **Delete Account** at the bottom.

@@ -17,7 +17,7 @@ You can hide categories and display them again when needed. It is especially use
 <br/>This opens the **Edit category** dialog box (or **Edit master category** if you are hiding a master category).<br/>
     {% include image.html file="EditCategory.png" alt="Editing a category" caption="Editing a category" %}
     {% include image.html file="EditMasterCategory.png" alt="Editing a master category" caption="Editing a master category" %}
-2.  Click the blue link:
+2.  Click the appropriate link:
     *  **Hide this category** for a category.
     *  **Hide this master category (and its categories)** for a master category.
         {% include important.html content="Hiding a master category also hides all of its categories." %}

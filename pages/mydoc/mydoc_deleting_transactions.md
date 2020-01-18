@@ -13,7 +13,7 @@ If you happen to add a wrong transaction or duplicate an existing one, you can a
 
 ## To delete a transaction:
 
-1.  In the blue navigation pane on the left, select an account with the transaction you want to delete. <br/>This opens a list of account transactions.
+1.  In the navigation pane on the left, select an account with the transaction you want to delete. <br/>This opens a list of account transactions.
 
 2.  In the transactions list, click to highlight the transaction you want to delete.
 

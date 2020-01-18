@@ -15,13 +15,13 @@ Considering how easy it is to [add payees](mydoc_adding_payees), you might end u
 
 ## To rename a payee:
 
-1.  In the top menu, select **View** > **Go to Payee Settings**. <br/>This opens a window with a list of payees.
+1.  In the menu bar at the top, select **View** > **Go to Payee Settings**. <br/>This opens a window with a list of payees.
 
 2.  From the list on the left, select a payee you want to rename.
 
 3.  Click **Rename**. <br/>This displays a field with the current name that you can change.
     {% include image.html file="PayeesEdit.png" alt="Editing a payee" %}
 
-4.  Type in the new name and click **Save**. <br/>The new name is now applied to all transactions assigned to this payee.
+4.  Type the new name and click **Save**. <br/>The new name is now applied to all transactions assigned to this payee.
 
 5.  Click **Close**.

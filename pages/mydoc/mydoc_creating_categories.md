@@ -16,7 +16,7 @@ folder: mydoc
     <br/>This opens the **Add new master category** dialog box.<br/>
     {% include image.html file="AddMasterCategory.png" alt="Adding a master category" %}
 
-2.  In the dialog box, type in the new name, then click **Done**.
+2.  In the dialog box, type the new name, then click **Done**.
 
 ## To add a new category:
 
@@ -26,6 +26,6 @@ folder: mydoc
     <br/>This opens the **Add new category** dialog box.<br/>
     {% include image.html file="AddCategory.png" alt="Adding a category" %}
 
-3.  In the dialog box, type in the new name, then click **Done**.
+3.  In the dialog box, type the new name, then click **Done**.
 
 {% include links.html %}

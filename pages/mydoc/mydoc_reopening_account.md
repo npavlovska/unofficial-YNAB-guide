@@ -13,7 +13,7 @@ If you happen to close an account by mistake, or you want to start using the clo
 
 ## To reopen an account:
 
-1. In the **Closed Accounts** section in the blue navigation pane on the left, right-click the account you want to reopen. <br/>This opens the **Edit Account** window.
+1. In the **Closed Accounts** section in the navigation pane on the left, right-click the account you want to reopen. <br/>This opens the **Edit Account** window.
     {% include image.html file="DeleteAccount.png" alt="Reopening an account" %}
 
 2. Click **Reopen Account** in the lower-left corner.
